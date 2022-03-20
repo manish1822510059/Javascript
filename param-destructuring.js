@@ -1,0 +1,1 @@
+// node param-destructuring.js
